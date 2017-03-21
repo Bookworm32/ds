@@ -8,6 +8,6 @@ package ru.bw;
  */
 public class First {
     public static void main(String[] args) {
-        System.out.println("New feature JIRA-001 is nearly ready!");
+        System.out.println("New feature JIRA-001 is ready (we really think so)!");
     }
 }
